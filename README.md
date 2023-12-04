@@ -3,7 +3,7 @@ How does the linguistic and emotional development of children who stutter differ
 
 Database: https://vkc.vumc.org/childhoodstuttering/forscientists_datasets.html
 
-Souces:
+Sources:
 *   https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression
 
 *   https://medium.com/@sabarirajan.kumarappan/feature-selection-by-lasso-and-ridge-regression-python-code-examples-1e8ab451b94b
